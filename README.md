@@ -1,3 +1,3 @@
 # Website
 
-https://simbiosyslab.github.io/Website/
+https://simbiosyslab.github.io/Wiki/
